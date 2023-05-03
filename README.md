@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
-<img align='right' alt='coding' width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align='right' style="border-radius : 50px; overflow: hidden; " alt='coding' width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-rzaa&label=Profile%20views&color=0e75b6&style=flat" alt="ali-rzaa" /> </p>
 
@@ -74,5 +74,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
   </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-rzaa&show_icons=true&locale=en&layout=compact" alt="ali-rzaa" /></p>
