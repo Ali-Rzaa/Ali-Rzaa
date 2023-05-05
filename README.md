@@ -74,3 +74,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
   </p>
+  
+  
+  <b>My GitHub Stats</b>
+
+
+
+<a style="margin: 40rem" href="https://github.com/Ali-Rzaa"><img src="https://github-readme-stats.vercel.app/api?username=Ali-Rzaa&show_icons=true&hide=&count_private=true&title_color=e2fdff&text_color=bfd7ff&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="Ali-Rzaa's GitHub stats" /></a>
+
+<a style="margin: 40rem" href="https://github.com/Ali-Rzaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Rzaa&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=bfd7ff&dates=bfd7ff&hide_border=true" /></a>
