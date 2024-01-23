@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-rzaa&label=Profile%20views&color=0e75b6&style=flat" alt="ali-rzaa" /> </p>
 
-- 🔭 I’m currently working on **Online Booking Medical Services**
+- 🔭 I’m currently surving as a Freelance Software Engineer
 
 - 🌱 I’m currently learning **ASP.Net core**
 
-- 💬 Ask me about **ReactJs, Angular, React Native, Javascript, ASP.Net core**
+- 💬 Ask me about **ReactJs, Angular, React Native, Javascript, Typescript, ASP.Net core**
 
 - 📫 How to reach me **alirk242@gmail.com**
 
