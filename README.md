@@ -2,18 +2,18 @@
   <img alt="header" align="center" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </div>
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align='right' alt='coding' width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-rzaa&label=Profile%20views&color=0e75b6&style=flat" alt="ali-rzaa" /> </p>
 
-- 🔭 I’m currently surving as a Freelance Software Engineer
+- 🔭 I’m currently surving as a Freelance Software Engineer in UK
 
-- 🌱 I’m currently learning **ASP.Net core**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **ReactJs, Angular, React Native, Javascript, Typescript, ASP.Net core**
+- 💬 Ask me about **React Native, ReactJs, Angular, Javascript, Typescript, ASP.Net core**
 
-- 📫 How to reach me **alirk242@gmail.com**
+- 📫 How to reach me **alirk242@gmail.com OR 03485925257**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
