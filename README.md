@@ -76,7 +76,7 @@
   </p>
   
   
-  <b>My GitHub Stats</b>
+  <b>My GitHub Stats (Doesn't include private repositories data)</b>
 
 
 
@@ -87,4 +87,4 @@
 <a style="text-aling:center" href="https://github.com/Ali-Rzaa" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rzaa&count_private=true&include_all_commits=true&langs_count=10&title_color=e2fdff&text_color=ffffff&icon_color=00FFFF&count_private=true&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-[![Ali Raza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Rzaa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ali Raza's github activity graph (Doesn't include private repositories data)](https://github-readme-activity-graph.vercel.app/graph?username=Ali-Rzaa)](https://github.com/ashutosh00710/github-readme-activity-graph)
