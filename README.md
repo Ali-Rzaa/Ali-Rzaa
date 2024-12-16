@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-rzaa&label=Profile%20views&color=0e75b6&style=flat" alt="ali-rzaa" /> </p>
 
-- 🔭 I’m currently surving as a Freelance Software Engineer in UK
+- 🔭 I’m currently surving as a Mobile Engineer in GreenTriangle UK
 
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React Native, ReactJs, Angular, Javascript, Typescript, ASP.Net core**
 
-- 📫 How to reach me **alirk242@gmail.com OR 03485925257**
+- 📫 How to reach me **alirk242@gmail.com OR +923485925257**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
