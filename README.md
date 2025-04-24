@@ -85,13 +85,12 @@
   </p>
   
   
-  [ <b>My GitHub Stats (Doesn't include private repositories data)</b>
+  <b>My GitHub Stats (Doesn't include private repositories data)</b>
 
-
+[//]: # (This is a comment.)
 
 <a style="margin: 40rem" href="https://github.com/Ali-Rzaa"><img src="https://github-readme-stats.vercel.app/api?username=Ali-Rzaa&show_icons=true&hide=&count_private=true&title_color=e2fdff&text_color=bfd7ff&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="Ali-Rzaa's GitHub stats" /></a>
 
-]: #
 
 <a style="margin: 40rem" href="https://github.com/Ali-Rzaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Rzaa&count_private=true&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=bfd7ff&dates=bfd7ff&hide_border=true" /></a>
 
