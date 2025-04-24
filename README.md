@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently surving as a Mobile Engineer in GreenTriangle UK
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Asp.net Core**
 
-- 💬 Ask me about **React Native, ReactJs, Angular, Javascript, Typescript, ASP.Net core**
+- 💬 Ask me about **React Native, App Store Connect, Google Play Console, ReactJs, Angular, Javascript, Typescript, ASP.Net core**
 
 - 📫 How to reach me **alirk242@gmail.com OR +923485925257**
 
@@ -22,6 +22,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+    </a>
+    <a href="https://appstoreconnect.apple.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://appstoreconnect.apple.com/static/img/app_store_connect_icon@3x.1736532541237.png" alt="App Store Connect" width="40" height="40"/> 
+    </a>
+    <a href="https://play.google.com/console/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.gstatic.com/acx/play/console//brt/play_console_ui_20250423_0240_RC00/developer-picker/play.console.ui.common.images/logos/navigation_menu.svg" alt="Google Play Console" width="40" height="40"/> 
+    </a>
+    <a href="https://testflight.apple.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/TestFlight_Icon.png" alt="TestFlight" width="40" height="40"/> 
+    </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
     </a> 
@@ -60,10 +72,7 @@
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a> 
+    </a>  
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
@@ -76,11 +85,13 @@
   </p>
   
   
-  <b>My GitHub Stats (Doesn't include private repositories data)</b>
+  [ <b>My GitHub Stats (Doesn't include private repositories data)</b>
 
 
 
 <a style="margin: 40rem" href="https://github.com/Ali-Rzaa"><img src="https://github-readme-stats.vercel.app/api?username=Ali-Rzaa&show_icons=true&hide=&count_private=true&title_color=e2fdff&text_color=bfd7ff&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="Ali-Rzaa's GitHub stats" /></a>
+
+]: #
 
 <a style="margin: 40rem" href="https://github.com/Ali-Rzaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Rzaa&count_private=true&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=bfd7ff&dates=bfd7ff&hide_border=true" /></a>
 
